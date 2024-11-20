@@ -1,0 +1,9 @@
+/* Add optional custom styling here */
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    max-width: 500px;
+    margin: 0 auto;
+}
